@@ -5,5 +5,5 @@
 |Name|Team|
 |-|-|
 |[LukhanyoV](https://github.com/LukhanyoV)|backend-hacker|
-|[Pain](https://github.com/Yonela-Johannes)|frontend-hacker|
+|[Yonela-Johannes](https://github.com/Yonela-Johannes)|frontend-hacker|
 |You?|...|
